@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+(80-120 characters on each line)
+
+Using the diff button to find bugs was very convenient.
+
+It was also convenient when I opened sublime from GitBash.
+
+GitBash is becoming less intimidating, but it is definitely something I need to get used to.
+
+Having a history of my changes in code it would help me track my progress and what has been changed.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automaitcally saved, like Google does?
+
+The pros is that if I'm manually creating a commit, then I can be sure that the change is for one purpose and that it's logical to document.
+Having it save automatically could clutter my log when looking back at what happened and changed.
+The cons is that if I forget to make a commit, I could lose my work. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+This is because Git was made for code changes.
+
+Often, many files are interelated and act upon one another. 
+If you change one file, then you need to know how other files are affected.
+
+How can you use the commands git log and git diff to view the hitory of files?
+
+I can use git log to find the unique commit IDs.
+
+Then, I can use git diff comparing the previous to the lastest version to see what changed.
+
+An important point is that it's in most recent to later order.
+
+How might using version control make you more confident to make changes that could break something?
+
+I would be much more confident with version control because if a bug does come up, I can trace back to my older commits using git checkout and look through to see where the bug was introduced.
+
+Then I can use git diff, once I find where the error was introduced and compare to see what I changed. 
+
+This makes me more confident to take risks and try more things. And I don't have to have tons of different older versions on my computer.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I most definitely want to use it for all my web projects and my programming projects! 
+
+I can't wait to actually get started on them!  
