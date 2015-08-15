@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it? 
+
+A new repository is made, with untracked history since there are no changes, and no commits (initial commit)
+
+You need to create the repository because it adds the hidden meta files like .git, that makes it different from normal files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+The staging area is the intermediate step between the working directory and the repository. It's like the middle man.
+
+You put files in that you want to commit from the working directory, and when you're ready, you commit them to the repository.
+
+If you decide not to commit, you don't have to delete it from repository and just from the staging area. You can make sure you are making logical commits. 
