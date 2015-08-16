@@ -32,3 +32,7 @@ This allows you to be able to experiment.
 You can create multiple versions, and still have your original one the same.
 
 Very, very cool!!
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help me keep track of which commits are parents of other commits, and lets me see which branches are reachable or unreachable by other branchs, and so I can know when I updated the branches and what will I need to merge, etc. 
