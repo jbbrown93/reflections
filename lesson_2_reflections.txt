@@ -36,3 +36,10 @@ Very, very cool!!
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help me keep track of which commits are parents of other commits, and lets me see which branches are reachable or unreachable by other branchs, and so I can know when I updated the branches and what will I need to merge, etc. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that we create a new tip for the master branch, which
+is a combined version of the new and master branch. 
+
+We represent that in the diagram to show that all the commits will be interlaced with one another, sorted by order of time stamp.
