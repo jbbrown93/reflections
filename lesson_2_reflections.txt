@@ -19,3 +19,16 @@ You can use the git command, git diff --staged, to double check by comparing the
 If nothing comes up, there is no difference.
 
 By doing this, you can make sure that your change you are about to commit is logical and significant. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are extremely powerful.
+
+They are going to make my life so much easier, because you can make different versions of your projects, while keeping the 
+original project in tact.
+
+This allows you to be able to experiment.
+
+You can create multiple versions, and still have your original one the same.
+
+Very, very cool!!
