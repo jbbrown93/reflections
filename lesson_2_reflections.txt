@@ -11,3 +11,11 @@ The staging area is the intermediate step between the working directory and the 
 You put files in that you want to commit from the working directory, and when you're ready, you commit them to the repository.
 
 If you decide not to commit, you don't have to delete it from repository and just from the staging area. You can make sure you are making logical commits. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+
+You can use the git command, git diff --staged, to double check by comparing the staging area file to the most recent commit. 
+
+If nothing comes up, there is no difference.
+
+By doing this, you can make sure that your change you are about to commit is logical and significant. 
